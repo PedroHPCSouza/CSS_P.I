@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 0%;
+}
+
+.elementoA {
+    width: 500px;
+    height: 500px;
+    background-color: rgb(200, 255, 0);
+}
+
+.elementoB {
+    width: 50%;
+    height: 50%;
+    background-color: #171c58;
+}
+
+.paragrafo1 {
+    color: white;
+    background-color: rgb(255, 102, 0);
+    font-size: 25px;
+    font-family: monospace;
+    font-weight: bold;
+}
+
+.elementoD {
+    width: 55%;
+    height: 46vh;
+    background-color: rgb(255, 238, 4)
+}
+
+.elementoE {
+    width: 75vh;
+    height: 55%;
+    background-color: rgb(58, 2, 2);
+}
